@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @betagoro
+- 👋 Hi, I’m @betagoro - Ronaldo Luis Gonçalves
 - 👀 I’m interested in Machine learning and IA
 - 🌱 I’m currently learning software enginer
-- 💞️ I’m looking to collaborate on Machine leraning projects
+- 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me ronaldo.luis@gmail.com or https://www.linkedin.com/in/ronaldo-luis-gon%C3%A7alves/
 
 <!---
